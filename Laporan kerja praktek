@@ -1,15 +1,3 @@
-LAPORAN KERJA PRAKTEK
-SISTEM INFORMASI PENGELOLAHAN BARANG/INVENTARIS KANTOR DI SMK GEMA BUWANA
-Disusun Sebagai Syarat Untuk Menyusun Skripsi Pada Program Studi Strata 1 Teknik Informatika
-Oleh:
-SUHENDRI
-18110460
-LOGO
-PROGRAM STUDI TEKNIK INFORMATIKA SEKOLAH TINGGI MANAJEMEN INFORMATIKA DAN KOMPUTER
-UNIVERSITAS BUDIDARMA
-MEDAN
-2021
- 
 BAB I
 PENDAHULUAN
 1.1 Latar Belakang
@@ -18,13 +6,13 @@ PENDAHULUAN
 	Untuk itu penulis berinisiatif untuk melaksanakan KP di SMK Gema Buwana. Mulai dari tanggal 19 April – 14 Juni. Hal yang mendasari kami untuk melakukan KP di SMK Gema Buwana adalah ketertarikan bagaimana cara SMK Gema Buwana mengelola segala laporan tentang memasukkan data pegawai, mencari data pegawai, mengedit data pegawai dan lain-lain. Serta ingin mengetahui Aplikasi apa saja yang digunakan untuk mengelola data yang begitu banyak.
 	Selama melakukan Kerja Praktek, banyak masalah yang ditemukan, misalnya belum adanya aplikasi digital dalam mencari berkas data pegawai, aplikasi untuk mencatat barang/inventaris SMK Gema Buwana. Oleh karena itu penulis mencoba untuk membuat suatu program aplikasi untuk pencatatan dan pendataan barang/inventaris SMK Gema Buwana yang cepat, akurat, tepat waktu, relefan serta efektif.
 	Sementara kegiatan Praktek dilaksanakan selama tiga bulan dan mencakup beberapa kegiatan. Ilmu yang diberikan oleh pembimbing praktek disesuaikan dengan waktu yang telah ditetapkan. Dengan hal itu menjadi tantangan bagi penulis untuk memperoleh pengalaman dan ilmu dari berbagai perbedaan dan persamaan antara teori dan peraktek.
-	Berdasarkkan analisa di atas tersebut, Penulis membuat Laporan Kerja Praktek ini dengan Judul “SISTEM INFORMASI PENGELOLAHAN BARANG/INVENTARIS KANTOR DI SMK GEMA BUWANA”.
+	Berdasarkkan analisa di atas, Penulis membuat Laporan Kerja Praktek ini dengan Judul “SISTEM INFORMASI PENGELOLAHAN BARANG/INVENTARIS KANTOR DI SMK GEMA BUWANA”.
 1.2 Identifikasi Dan Rumusan Masalah
 A. Identifikasi Masalah
 	Berdasarkan uraian latar belakan di atas, maka permasalahan yang dihadapi mencakup antara lain :
 1.	Masih terdapatnya pengelolahan barang/inventaris SMK Gema Buwana yang menggunakan buku besar yang menyebabkan data-data tidak tersimpan dengan baik.
 2.	Microsoft Excel sebagai sistem aplikasi yang ada saat ini memiliki keterbatasan, yaitu tidak dapat mengelola database.
-3.	Belum adanya pembuatan laporan stok barang/inventaris SMK Gema Buwana, serta belum adanya apikasi untuk mencari data pegawai SMK Gema Buwana yang berjumlah ?. Tentu ini belum sesuai dengan apa yang diharapkan.
+3.	Belum adanya pembuatan laporan stok barang/inventaris SMK Gema Buwana, dan belum adanya apikasi untuk mencari data pegawai SMK Gema Buwana. Tentu ini belum sesuai dengan apa yang diharapkan.
 B. Rumusan Masalah
 Dalam hal ini rumusan masalah yang akan penulis bahas, yaitu :
 	Bagaimana pembuatan program pengelolaan barang/inventaris SMK Gema Buwana.
@@ -34,6 +22,7 @@ Dalam hal ini rumusan masalah yang akan penulis bahas, yaitu :
 
 A. Maksud
 	Maksud dilaksanakannya kerja praktek adalah untuk mengimplementasikan pengetahuan yang di dapat di perkuliahan dengan kenyataan yang sesungguhnya di lapangan atau dunia kerja dan untuk menambah pengetahuan secara nyata di dunia kerja.
+
 B. Tujuan
 	Sedangkan tujuan dilaksanakannya kerja praktek di SMK Gema Buwana untuk membuat laporan kerja praktek ini adalah sebagai berikut :
 a.	Supaya mampu menyelaraskan ilmu pengetahuan di kampus/perkuliahan dan ditempat kerja.
@@ -52,5 +41,6 @@ a.	Tidak membahas mengenai masalah transaksi perolehan barang/inventaris SMK Gem
 b.	Tidak membahas masalah yang mengenai keuangan.
 c.	Tidak membuat program digital untuk mencari arsip data pegawai SMK Gema Buwana.
 
-1.5 Lokasi Dan Jadwal Praktek
+1.5 Lokasi Kerja Praktek
+	Lokasi penulis melaksanakan kerja praktek yaitu di SMK SWASTA GEMA BUWANA. Beralamat di jalan Gambir Pasar VIII Gg. Adil, Sei Rotan, Kec. Percut Sei Tuan, Kab. Deli Serdang, Provinsi. Sumatra Utara
 
