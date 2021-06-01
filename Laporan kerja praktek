@@ -1,46 +1,51 @@
 BAB I
 PENDAHULUAN
-1.1 Latar Belakang
-	Berkaitan dengan semester VI untuk program S1 di Universitas Budidarma Medan, Fakultas Ilmu Komputer Dan Teknologi Informasi, Jurusan Teknik Informatika mewajibkan seluruh mahasiswanya untuk melaksanakan Mata Kuliah Kerja Praktek (KP) pada salah satu Instansi atau Perusahaan, dimana proses secara teori yang telah diserap di Kampus senantiasa dapat diterapkan di tempat kerja.
-	Kerja Praktek (KP) merupakan program pembelajaran dalam rangka penyesuaian diri antara pelajaran teori di Kampus dengan praktek di lapangan. Dengan adanya praktek kerja lapangan mahasiswa dapat melatih diri dan mengetahui dunia kerja secara nyata.
-	Untuk itu penulis berinisiatif untuk melaksanakan KP di SMK Gema Buwana. Mulai dari tanggal 19 April – 14 Juni. Hal yang mendasari kami untuk melakukan KP di SMK Gema Buwana adalah ketertarikan bagaimana cara SMK Gema Buwana mengelola segala laporan tentang memasukkan data pegawai, mencari data pegawai, mengedit data pegawai dan lain-lain. Serta ingin mengetahui Aplikasi apa saja yang digunakan untuk mengelola data yang begitu banyak.
-	Selama melakukan Kerja Praktek, banyak masalah yang ditemukan, misalnya belum adanya aplikasi digital dalam mencari berkas data pegawai, aplikasi untuk mencatat barang/inventaris SMK Gema Buwana. Oleh karena itu penulis mencoba untuk membuat suatu program aplikasi untuk pencatatan dan pendataan barang/inventaris SMK Gema Buwana yang cepat, akurat, tepat waktu, relefan serta efektif.
-	Sementara kegiatan Praktek dilaksanakan selama tiga bulan dan mencakup beberapa kegiatan. Ilmu yang diberikan oleh pembimbing praktek disesuaikan dengan waktu yang telah ditetapkan. Dengan hal itu menjadi tantangan bagi penulis untuk memperoleh pengalaman dan ilmu dari berbagai perbedaan dan persamaan antara teori dan peraktek.
-	Berdasarkkan analisa di atas, Penulis membuat Laporan Kerja Praktek ini dengan Judul “SISTEM INFORMASI PENGELOLAHAN BARANG/INVENTARIS KANTOR DI SMK GEMA BUWANA”.
-1.2 Identifikasi Dan Rumusan Masalah
+
+
+1.1 Latar Belakang Masalah
+	Berkaitan dengan semester VI untuk program S1 di Universitas Budidarma Medan, Fakultas IlmuKomputer Dan Teknologi Informasi, Jurusan Teknik Informatika mewajibkan seluruh mahasiswanya untuk melaksanakan Mata Kuliah Kerja Praktek (KP) pada Instansi atau Perusahaan, dimana proses secara teori yang telah diserap di Kampus senantiasa dapat diterapkan di tempat kerja.
+	KerjaPraktek (KP) merupakan program pembelajaran dalam  rangka penyesuaian diriantara pelajaran teori di Kampus dengan praktek di lapangan. Dengan adanya praktek kerja lapangan mahasiswa dapat melatih diri dan mengetahui dunia kerja secara nyata.
+	Untuk itu penulis berinisiatif untuk melaksanakan Kerja Praktek di SMK Gema  Buwana.Mulai dari tanggal 19 April –14 Juni. Hal yang mendasari kami untuk melakukan 
+Kerja Praktek di SMK Gema Buwana adalah ketertarikan bagaimana  cara SMK Gema Buwana mengelola segala laporan tentang memasukkan data pegawai, mencari data pegawai, mengedit data pegawai dan lain-lain. Serta ingin mengetahui Aplikasi apa saja yang digunakan untuk mengelola data yang begitu banyak.
+	SelamamelakukanKerjaPraktek, banyakmasalah yang ditemukan, misalnya beluma adany aaplikasi digital dalam mencari berkas data pegawai, aplikasi untuk mencatat barang/inventaris SMK GemaBuwana.Oleh karena itu penulis mencoba untuk membuat  suatu program aplikasi untuk pencatatan dan pendataan barang/inventaris SMK GemaBuwana yang cepat, akurat, tepat waktu, relefan serta efektif.
+	Sementara kegiatan Praktek dilaksanakan selama tiga bulan dan mencakup beberapa kegiatan.Ilmu yang diberikan oleh pembimbing praktek disesuaikan dengan waktu yang telah ditetapkan.Dengan hal itu menjadi tantangan bagipenulis untuk memperoleh pengalaman danilmudari berbagai perbedaan dan persamaan antara teori dan peraktek.
+	Berdasarkkan analisa di atas, Penulis membuat Laporan Kerja Praktek ini dengan Judul “SISTEM  INFORMASI  PENGELOLAHAN BARANG/INVENTARIS KANTOR DI SMK GEMA BUWANA”.
+1.2 Identifikasi Dan RumusanMasalah
 A. Identifikasi Masalah
-	Berdasarkan uraian latar belakan di atas, maka permasalahan yang dihadapi mencakup antara lain :
-1.	Masih terdapatnya pengelolahan barang/inventaris SMK Gema Buwana yang menggunakan buku besar yang menyebabkan data-data tidak tersimpan dengan baik.
-2.	Microsoft Excel sebagai sistem aplikasi yang ada saat ini memiliki keterbatasan, yaitu tidak dapat mengelola database.
-3.	Belum adanya pembuatan laporan stok barang/inventaris SMK Gema Buwana, dan belum adanya apikasi untuk mencari data pegawai SMK Gema Buwana. Tentu ini belum sesuai dengan apa yang diharapkan.
-B. Rumusan Masalah
-Dalam hal ini rumusan masalah yang akan penulis bahas, yaitu :
-	Bagaimana pembuatan program pengelolaan barang/inventaris SMK Gema Buwana.
-	Bagaimana pengaplikasian program dan manfaatan program pengelolaan barang/inventaris SMK Gema Buwana yang penulis sedang bangun.
+	Berdasarkan uraian latarbelakan di atas, maka permasalahan yang dihadapi mencakup antara lain :
+1.	Masih terdapatnya pengelolahan barang/inventaris SMK GemaBuwana yang menggunakan buku besar yang menyebabkan data-data tidak tersimpan dengan baik.
+2.	Microsoft Excel sebagai system aplikasi yang ada saat ini memiliki keterbatasan, yaitu tidak dapat mengelola database.
+3.	Belum adanya pembuatan laporan stok barang/inventaris SMK Gema Buwana, dan belum adany aapikasi untuk mencari data pegawaiSMK Gema Buwana. Tentu ini belum sesuai dengan apa yang diharapkan.
+
+B. PeruumusanMasalah
+Dalam hal ini perumusan masalah yang akan penulis bahas, yaitu :
+1.	Bagaimana proses pengelolaan barang/inventaris SMK Gema Buwana.
+2.	Bagaimana merancang sistem pengelolaan barang/inventaris SMK Gema Buwana.
+3.	Bagaimana pengaplikasian program dan manfaatan program pengelolaan barang/inventaris SMK GemaBuwana yang penulis sedang bangun.
 
 1.3 Maksud Dan Tujuan
 
 A. Maksud
-	Maksud dilaksanakannya kerja praktek adalah untuk mengimplementasikan pengetahuan yang di dapat di perkuliahan dengan kenyataan yang sesungguhnya di lapangan atau dunia kerja dan untuk menambah pengetahuan secara nyata di dunia kerja.
+	Maksud dilaksanakannya kerja praktek adalahu ntuk mengimplementasikan pengetahuan yang di dapat di perkuliahan dengan kenyataan yang sesungguhnya di lapangan atau dunia kerjadan untuk menambah pengetahuan secara nyata di duniakerja.
 
 B. Tujuan
-	Sedangkan tujuan dilaksanakannya kerja praktek di SMK Gema Buwana untuk membuat laporan kerja praktek ini adalah sebagai berikut :
-a.	Supaya mampu menyelaraskan ilmu pengetahuan di kampus/perkuliahan dan ditempat kerja.
-b.	Agar penulis dapat menambah wawasan dalam pekerjaan yang diaplikasikan antara teori dan observasi.
+	Sedangkan tujuan  dilaksanakannya kerja praktek di SMK Gema Buwana untuk membuatl aporan kerja praktek ini adalah sebagai berikut :
+a.	Supaya mampu menyelaraskani lmupengetahuan di kampus/perkuliahan dan ditempat kerja.
+b.	Agar penulis dapat menambah wawasan dalam pekerjaan yang diaplikasikan antarateori dan observasi.
 c.	Untuk mengetahui tata tertib di dunia kerja.
 d.	Supaya penulis dapat menghadapi dan mengembangkan pelajaran yang didapat di kampus dan penerapannya di dalam dunia kerja yang sesungguhnya.
-e.	Supaya penulis mampu untuk menghadapi masalah dan mencari alternative pemecahan permasalahan tersebut dengan program studi yang penulis sekarang pelajari.
-f.	Mengetahui sistem kepegawaian SMK Gema Buwana.
-g.	Mengusulkan sistem kepegawaian yang lebih mudah, efesien, ekonomis, dan tepat waktu.
+e.	Supaya penulis mampu untuk menghadapi masalah dan mencari alternative pemecahan permasalahantersebut dengan program studi yang penulis sekarang pelajari.
+f.	Mengetahui system kepegawaian SMK Gema Buwana.
+g.	Mengusulkan system kepegawaian yang lebih  mudah, efesien, ekonomis, dan tepat waktu.
 h.	Diharapkan juga dengan program aplikasi yang dibuat, maka data barang/inventaris di SMK Gema Buwana dapat terkontrol dengan baik, dan data-data barang/inventaris dapat tersimpan dengan baik.
-i.	Dengan program aplikasi yang dibuat, data-data akan terintegrasi dan tersimpan dengan baik serta untuk memudahkan dalam proses pembuatan laporan barang/inventaris tersebut.
+i.	Dengan program aplikasi yang dibuat, data-data akan terintegrasi dan tersimpan dengan baik serta untuk memudahkan dalam proses pembuatan laporan barang/inventaristersebut.
 
-1.4 Batasan Masalah
+1.4  Batasan Masalah
 	Berdasarkan latar belakang dan identifikasi masalah di atas, penulis membatasi masalah menjadi :
-a.	Tidak membahas mengenai masalah transaksi perolehan barang/inventaris SMK Gema Buwana, tetapi hanya mengelola data barang/inventaris kantor di SMK Gema Buwana yang ada.
+a.	Tidak membahas mengenai masalah transaksi perolehan barang/inventaris SMK Gema Buwana, tetapivhanyamengelola data barang/inventariskantor di SMK Gema Buwana yang ada.
 b.	Tidak membahas masalah yang mengenai keuangan.
 c.	Tidak membuat program digital untuk mencari arsip data pegawai SMK Gema Buwana.
 
-1.5 Lokasi Kerja Praktek
-	Lokasi penulis melaksanakan kerja praktek yaitu di SMK SWASTA GEMA BUWANA. Beralamat di jalan Gambir Pasar VIII Gg. Adil, Sei Rotan, Kec. Percut Sei Tuan, Kab. Deli Serdang, Provinsi. Sumatra Utara
+1.5  Lokasi Kerja Praktek
+	Lokasi penulis melaksanakan kerja praktek yaitu di SMK SWASTA GEMA BUWANA.Beralamat di Jalan Gambir Pasar VIII Gg. Adil, Sei Rotan, Kec.Percut Sei Tuan, Kab. Deli Serdang, Provinsi. Sumatra Utara
 
